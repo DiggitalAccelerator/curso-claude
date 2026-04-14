@@ -25,8 +25,10 @@ fi
 # Crear carpeta de comandos
 mkdir -p "$DEST"
 
-# Copiar skills
+# Copiar skills y regalos
 cp "$SCRIPT_DIR/skills/"*.md "$DEST/"
+mkdir -p "$DEST/regalos"
+cp "$SCRIPT_DIR/regalos/"*.md "$DEST/regalos/"
 
 echo "✅ ¡Curso instalado correctamente!"
 echo ""
@@ -34,9 +36,10 @@ echo "   Comandos disponibles:"
 echo "   /cw:start    → Bienvenida al curso"
 echo "   /cw:clase-1  → Clase 1: Tu Claude personalizado"
 echo "   /cw:clase-2  → Clase 2: Tu primera skill"
-echo "   /cw:clase-3  → Clase 3: MCP + multi-agente"
-echo "   /cw:clase-4  → Clase 4: Página web real"
-echo "   /cw:clase-5  → Clase 5: El sistema completo"
+echo "   /cw:clase-3  → Clase 3: Subagentes en paralelo"
+echo "   /cw:clase-4  → Clase 4: MCP — conecta tus apps"
+echo "   /cw:clase-5  → Clase 5: Construye algo real"
+echo "   /cw:clase-6  → Clase 6: El sistema completo"
 echo ""
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "   Abre Claude Code y escribe /cw:start"
