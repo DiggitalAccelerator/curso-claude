@@ -61,7 +61,7 @@ Luego abre Claude Code en cualquier carpeta de tu computadora y escribe:
 
 - Claude Code instalado (`npm install -g @anthropic-ai/claude-code`)
 - Una cuenta de Anthropic (claude.ai)
-- Node.js 18+ o Python 3 (para el deploy local de la web)
+- Node.js 20+ o Python 3 (para el deploy local de la web)
 
 ---
 

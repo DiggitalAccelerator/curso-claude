@@ -23,7 +23,9 @@ Dile al usuario algo así:
 >
 > Es como el brief que le darías a un asistente nuevo. Pero uno que lee perfecto y nunca olvida.
 >
-> Vamos a construir el tuyo ahora mismo. Te voy a hacer 5 preguntas."
+> Vamos a construir el tuyo ahora mismo. Te voy a hacer 5 preguntas.
+>
+> **Tip:** Si prefieres arrancar desde una plantilla en lugar de construirlo desde cero, en la carpeta `templates/` del curso tienes tres opciones: `freelancer.md`, `coach-consultor.md` y `negocio-local.md`. Elige la que más se acerque a tu negocio, llena los corchetes y listo. De todas formas te hago las preguntas para que el resultado sea tuyo, no genérico."
 
 ---
 

@@ -1,6 +1,6 @@
 # Cheat Sheet — Curso Claude Code
 
-> Desbloqueado en la Clase 5 del Curso Claude Code — por Cristhian White
+> Desbloqueado en la Clase 6 del Curso Claude Code — por Cristhian White
 >
 > Tu referencia completa en una página.
 
