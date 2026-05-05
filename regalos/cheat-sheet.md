@@ -13,9 +13,10 @@
 | `/cw:start` | Bienvenida al curso |
 | `/cw:clase-1` | Entrevista + crea tu CLAUDE.md |
 | `/cw:clase-2` | Anatomía de skill + construyes la tuya |
-| `/cw:clase-3` | MCP + demo de multi-agente |
-| `/cw:clase-4` | Página de captura + deploy local |
-| `/cw:clase-5` | Cierre + sistema completo |
+| `/cw:clase-3` | Subagentes — múltiples Claudes en paralelo |
+| `/cw:clase-4` | MCP — conecta Claude con tus apps |
+| `/cw:clase-5` | Construye algo real para tu negocio |
+| `/cw:clase-6` | El sistema completo + qué sigue |
 
 ---
 

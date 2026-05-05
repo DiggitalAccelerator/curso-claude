@@ -50,9 +50,10 @@ Luego abre Claude Code en cualquier carpeta de tu computadora y escribe:
 |-------|-------------|
 | `/cw:clase-1` | Le das memoria y personalidad a tu Claude con `CLAUDE.md` |
 | `/cw:clase-2` | Construyes tu primera skill (comando personalizado) |
-| `/cw:clase-3` | Conectas Claude con tus apps externas via MCP |
-| `/cw:clase-4` | Construyes una página de captura real y la ves en tu browser |
-| `/cw:clase-5` | El sistema completo + qué sigue |
+| `/cw:clase-3` | Lanzas múltiples Claudes en paralelo (subagentes) |
+| `/cw:clase-4` | Conectas Claude con tus apps externas via MCP |
+| `/cw:clase-5` | Construyes algo real para tu negocio y lo ves funcionar |
+| `/cw:clase-6` | El sistema completo + qué sigue |
 
 ---
 

@@ -65,7 +65,7 @@ Si el archivo está accesible en `~/.claude/commands/cw/regalos/cheat-sheet.md`,
 
 ### Paso 4 — El pitch
 
-> "Para eso existe **[NOMBRE_COMUNIDAD]**.
+> "Para eso existe **Sociedad Agentika**.
 >
 > Es mi comunidad en Skool donde trabajo con un grupo pequeño de personas que quieren implementar IA en su negocio de manera real — no teórica.
 >
@@ -79,7 +79,7 @@ Si el archivo está accesible en `~/.claude/commands/cw/regalos/cheat-sheet.md`,
 >
 > Si te interesa, el link es: **[LINK_COMUNIDAD]**"
 
-*(Nota para Cristhian: reemplaza `[NOMBRE_COMUNIDAD]` y `[LINK_COMUNIDAD]` con los datos reales cuando estén listos)*
+*(Nota para Cristhian: reemplaza `[LINK_COMUNIDAD]` con el link real de Skool cuando esté listo)*
 
 ---
 
