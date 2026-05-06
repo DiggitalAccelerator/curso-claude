@@ -22,9 +22,10 @@ No videos. No plataformas. Todo pasa aquí, en esta terminal.
 ```
 Clase 1 → Tu Claude con memoria y personalidad propia
 Clase 2 → Tu primer comando personalizado (una skill)
-Clase 3 → Claude conectado con tus apps externas (MCP)
-Clase 4 → Una página web real de tu negocio, en vivo en tu computadora
-Clase 5 → El sistema completo + qué sigue
+Clase 3 → Múltiples Claudes trabajando en paralelo (subagentes)
+Clase 4 → Claude conectado con tus apps externas (MCP)
+Clase 5 → Construyes algo real para tu negocio
+Clase 6 → El sistema completo + qué sigue
 ```
 
 Cada clase tiene una entrega concreta. No pasas a la siguiente hasta que lo hayas construido y visto funcionar.
