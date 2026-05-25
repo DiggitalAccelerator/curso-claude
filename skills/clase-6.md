@@ -77,9 +77,7 @@ Si el archivo está accesible en `~/.claude/commands/cw/regalos/cheat-sheet.md`,
 >
 > No es para todos. Es para personas que ya probaron que esto funciona — como tú, que terminaste este curso — y que quieren ir al siguiente nivel con apoyo.
 >
-> Si te interesa, el link es: **[LINK_COMUNIDAD]**"
-
-*(Nota para Cristhian: reemplaza `[LINK_COMUNIDAD]` con el link real de Skool cuando esté listo)*
+> Si te interesa, el link es: **https://www.skool.com/sociedad-agentika/about**"
 
 ---
 
